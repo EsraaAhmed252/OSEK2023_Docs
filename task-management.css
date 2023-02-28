@@ -36,17 +36,13 @@
   flex-direction: row;
   justify-content: center;
 }
-.task-management-icon {
-  width: 24px;
-  height: 24px;
-}
 .task-management-burger-menu {
   display: none;
   align-items: flex-start;
   border-radius: var(--dl-radius-radius-radius4);
   flex-direction: column;
 }
-.task-management-icon02 {
+.task-management-icon {
   width: 36px;
   height: 36px;
 }
@@ -85,7 +81,7 @@
 .task-management-dropdown-arrow {
   transition: 0.3s;
 }
-.task-management-icon04 {
+.task-management-icon02 {
   width: 24px;
   height: 24px;
 }
@@ -164,7 +160,7 @@
   color: #fff;
   background-color: #595959;
 }
-.task-management-text01 {
+.task-management-text001 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -197,7 +193,7 @@
   color: #fff;
   background-color: #595959;
 }
-.task-management-text02 {
+.task-management-text002 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -230,7 +226,7 @@
   color: #fff;
   background-color: #595959;
 }
-.task-management-text03 {
+.task-management-text003 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -257,7 +253,7 @@
   color: #fff;
   background-color: #595959;
 }
-.task-management-text04 {
+.task-management-text004 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -284,7 +280,7 @@
   color: #fff;
   background-color: #595959;
 }
-.task-management-text05 {
+.task-management-text005 {
   width: 100%;
   cursor: pointer;
   display: flex;
@@ -360,7 +356,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.task-management-icon06 {
+.task-management-icon04 {
   width: 24px;
   height: 24px;
 }
@@ -424,17 +420,6 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-fiveunits);
 }
-.task-management-text06 {
-  color: rgb(2, 2, 2);
-  font-size: 20px;
-  text-align: center;
-  font-family: Raleway;
-  font-weight: 700;
-  line-height: 1.55;
-  margin-bottom: var(--dl-space-space-fiveunits);
-  text-transform: none;
-  text-decoration: none;
-}
 .task-management-cta-btn1 {
   color: var(--dl-color-gray-white);
   text-align: center;
@@ -464,7 +449,7 @@
   margin-bottom: var(--dl-space-space-fiveunits);
   flex-direction: column;
 }
-.task-management-text07 {
+.task-management-text006 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
@@ -496,7 +481,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.task-management-icon08 {
+.task-management-icon06 {
   width: 36px;
   height: 36px;
   min-width: 36px;
@@ -510,7 +495,7 @@
 .task-management-heading1 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.task-management-text08 {
+.task-management-text007 {
   color: var(--dl-color-gray-700);
   text-align: left;
 }
@@ -539,7 +524,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.task-management-icon11 {
+.task-management-icon09 {
   width: 36px;
   height: 36px;
   min-width: 36px;
@@ -553,7 +538,7 @@
 .task-management-heading2 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.task-management-text09 {
+.task-management-text012 {
   color: var(--dl-color-gray-700);
   text-align: left;
 }
@@ -582,7 +567,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.task-management-icon14 {
+.task-management-icon12 {
   width: 36px;
   height: 36px;
   min-width: 36px;
@@ -596,7 +581,7 @@
 .task-management-heading3 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.task-management-text10 {
+.task-management-text015 {
   color: var(--dl-color-gray-700);
   text-align: left;
 }
@@ -624,7 +609,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.task-management-icon17 {
+.task-management-icon15 {
   width: 36px;
   height: 36px;
   min-width: 36px;
@@ -638,7 +623,7 @@
 .task-management-heading4 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.task-management-text15 {
+.task-management-text020 {
   color: var(--dl-color-gray-700);
   text-align: left;
 }
@@ -666,7 +651,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.task-management-icon20 {
+.task-management-icon18 {
   width: 36px;
   height: 36px;
   min-width: 36px;
@@ -680,8 +665,9 @@
 .task-management-heading5 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.task-management-text16 {
+.task-management-text021 {
   color: var(--dl-color-gray-700);
+  font-size: 22px;
   text-align: left;
 }
 .task-management-link15 {
@@ -708,7 +694,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.task-management-icon23 {
+.task-management-icon21 {
   width: 36px;
   height: 36px;
   min-width: 36px;
@@ -722,9 +708,18 @@
 .task-management-heading6 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.task-management-text22 {
+.task-management-text029 {
   color: var(--dl-color-gray-700);
+  font-size: 22px;
   text-align: left;
+}
+.task-management-text030 {
+  font-style: normal;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 1.55;
+  text-transform: none;
+  text-decoration: none;
 }
 .task-management-link16 {
   color: rgb(255, 255, 255);
@@ -762,19 +757,19 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.task-management-text28 {
+.task-management-text037 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.task-management-text29 {
+.task-management-text038 {
   color: var(--dl-color-gray-700);
   text-align: center;
 }
-.task-management-text31 {
+.task-management-text040 {
   font-size: 22px;
   font-weight: 700;
 }
-.task-management-text35 {
+.task-management-text044 {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -809,19 +804,19 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.task-management-text39 {
+.task-management-text048 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.task-management-text40 {
+.task-management-text049 {
   color: var(--dl-color-gray-700);
   text-align: center;
 }
-.task-management-text42 {
+.task-management-text051 {
   font-size: 22px;
   font-weight: 700;
 }
-.task-management-text46 {
+.task-management-text055 {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -856,19 +851,19 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.task-management-text50 {
+.task-management-text059 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.task-management-text51 {
+.task-management-text060 {
   color: var(--dl-color-gray-700);
   text-align: center;
 }
-.task-management-text53 {
+.task-management-text062 {
   font-size: 22px;
   font-weight: 700;
 }
-.task-management-text57 {
+.task-management-text066 {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -903,19 +898,19 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.task-management-text61 {
+.task-management-text070 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.task-management-text62 {
+.task-management-text071 {
   color: var(--dl-color-gray-700);
   text-align: center;
 }
-.task-management-text64 {
+.task-management-text073 {
   font-size: 22px;
   font-weight: 700;
 }
-.task-management-text68 {
+.task-management-text077 {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -950,15 +945,15 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.task-management-text72 {
+.task-management-text081 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.task-management-text74 {
+.task-management-text083 {
   font-size: 22px;
   font-weight: 700;
 }
-.task-management-text78 {
+.task-management-text087 {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -993,15 +988,15 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
 }
-.task-management-text82 {
+.task-management-text091 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.task-management-text84 {
+.task-management-text093 {
   font-size: 22px;
   font-weight: 700;
 }
-.task-management-text88 {
+.task-management-text097 {
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -1039,6 +1034,11 @@
   align-items: flex-start;
   flex-direction: row;
 }
+.task-management-icon24 {
+  width: 24px;
+  height: 24px;
+  margin-right: var(--dl-space-space-doubleunit);
+}
 .task-management-icon26 {
   width: 24px;
   height: 24px;
@@ -1047,18 +1047,13 @@
 .task-management-icon28 {
   width: 24px;
   height: 24px;
-  margin-right: var(--dl-space-space-doubleunit);
-}
-.task-management-icon30 {
-  width: 24px;
-  height: 24px;
 }
 .task-management-copyright-container {
   display: flex;
   align-items: center;
   flex-direction: row;
 }
-.task-management-icon32 {
+.task-management-icon30 {
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-doubleunit);
@@ -1080,7 +1075,7 @@
     padding: var(--dl-space-space-halfunit);
     background-color: var(--dl-color-gray-black);
   }
-  .task-management-icon02 {
+  .task-management-icon {
     fill: var(--dl-color-gray-white);
   }
   .task-management-links-container {
@@ -1179,42 +1174,42 @@
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
-  .task-management-text28 {
+  .task-management-text037 {
     text-align: center;
   }
   .task-management-terminate {
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
-  .task-management-text39 {
+  .task-management-text048 {
     text-align: center;
   }
   .task-management-chain {
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
-  .task-management-text50 {
+  .task-management-text059 {
     text-align: center;
   }
   .task-management-schedule {
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
-  .task-management-text61 {
+  .task-management-text070 {
     text-align: center;
   }
   .task-management-get-i-d {
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
-  .task-management-text72 {
+  .task-management-text081 {
     text-align: center;
   }
   .task-management-get-state {
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
-  .task-management-text82 {
+  .task-management-text091 {
     text-align: center;
   }
 }
