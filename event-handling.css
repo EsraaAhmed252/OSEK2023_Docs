@@ -599,7 +599,7 @@
 }
 .event-handling-set {
   width: 100%;
-  height: 1300px;
+  height: 1350px;
   display: flex;
   position: relative;
   max-width: var(--dl-size-size-maxcontent);
@@ -619,7 +619,7 @@
 }
 .event-handling-div {
   width: 1012px;
-  height: 1029px;
+  height: 1050px;
 }
 .event-handling-div1 {
   width: 189px;
@@ -639,7 +639,7 @@
 }
 .event-handling-clear {
   width: 100%;
-  height: 1160px;
+  height: 1150px;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
   margin-top: var(--dl-space-space-fiveunits);
@@ -658,7 +658,7 @@
 }
 .event-handling-div2 {
   width: 1031px;
-  height: 925px;
+  height: 1000px;
 }
 .event-handling-div3 {
   width: 189px;
@@ -678,7 +678,7 @@
 }
 .event-handling-wait {
   width: 100%;
-  height: 1191px;
+  height: 1200px;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
   margin-top: var(--dl-space-space-fiveunits);
@@ -697,7 +697,7 @@
 }
 .event-handling-div4 {
   width: 1060px;
-  height: 952px;
+  height: 1000px;
 }
 .event-handling-div5 {
   width: 189px;
@@ -717,7 +717,7 @@
 }
 .event-handling-get {
   width: 100%;
-  height: 1214px;
+  height: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
   margin-top: var(--dl-space-space-fiveunits);
@@ -736,7 +736,7 @@
 }
 .event-handling-div6 {
   width: 1063px;
-  height: 966px;
+  height: 1000px;
   padding-bottom: Infinitypx;
 }
 .event-handling-div7 {
@@ -804,7 +804,7 @@
     width: 80%;
   }
 }
-@media(max-width: 479px) {
+@media(max-width: 480px) {
   .event-handling-cta-btn {
     font-size: 16px;
     padding-left: var(--dl-space-space-doubleunit);

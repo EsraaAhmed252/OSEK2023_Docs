@@ -792,7 +792,7 @@
     justify-content: center;
   }
 }
-@media(max-width: 479px) {
+@media(max-width: 480px) {
   .home-cta-btn {
     font-size: 16px;
     padding-left: var(--dl-space-space-doubleunit);

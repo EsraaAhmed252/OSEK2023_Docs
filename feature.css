@@ -871,7 +871,7 @@
     width: 80%;
   }
 }
-@media(max-width: 479px) {
+@media(max-width: 480px) {
   .feature-cta-btn {
     font-size: 16px;
     padding-left: var(--dl-space-space-doubleunit);
